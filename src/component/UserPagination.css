@@ -48,9 +48,12 @@
 .pagination button {
   width: 5rem;
   height: 2rem;
+  font-size: 15px;
+  font-weight: 500;
   letter-spacing: 1px;
   margin-inline-end: 1rem;
   border-radius: 1px;
   border-style: none;
   cursor: pointer;
+  background-color: var(--secondary-color);
 }
